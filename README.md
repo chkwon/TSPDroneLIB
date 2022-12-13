@@ -1,4 +1,4 @@
-# TSPDrone-TestInstances
+# TSPDroneLIB
 Test Instances for the Traveling Salesman Problem with Drone
 
 This repository includes benchmark instances for the Traveling Salesman Problem with Drone (TSP-D) and the Flying-Sidekick Traveling Salesman Problem with Flying Sidekick (FS-TSP).
