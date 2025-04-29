@@ -55,4 +55,6 @@ This dataset first appeared in the following paper:
 ## Related Packages
 
 - [TSPDrone.jl](https://github.com/chkwon/TSPDrone.jl): A Julia package that implements algorithms by Agatz et al. (2018) and Bogyrbayeva et al. (2022)
+- [TSPDroneHGATAC.jl](https://github.com/Sasanm88/TSPDroneHGATAC.jl)
+- [TSPDroneICP.jl](https://github.com/0505daniel/TSPDroneICP.jl)
 
